@@ -18,3 +18,9 @@ p {
     color: green;
     font-weight: bold;
 }
+
+/* New class for highlighting text */
+.highlight-text {
+    color: darkorange;
+    text-decoration: underline;
+}
