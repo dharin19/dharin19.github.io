@@ -14,3 +14,7 @@ p {
     color: red;
     font-size: 16px;
 }
+#uniqueECEStudent {
+    color: green;
+    font-weight: bold;
+}
