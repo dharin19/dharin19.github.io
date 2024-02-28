@@ -13,6 +13,12 @@ a:hover {
 p {
     color: red;
     font-size: 16px;
+    padding: 10px; 
+    margin-bottom: 20px; 
+}
+#header {
+    margin-top: 20px; 
+    padding: 15px; 
 }
 #uniqueECEStudent {
     color: green;
